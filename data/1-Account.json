@@ -1,0 +1,50 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef1"
+      },
+      "Name": "Texeï",
+      "Type": null,
+      "BillingStreet": null,
+      "BillingCity": null,
+      "BillingState": null,
+      "BillingPostalCode": null,
+      "BillingCountry": null,
+      "BillingLatitude": null,
+      "BillingLongitude": null,
+      "BillingGeocodeAccuracy": null,
+      "ShippingStreet": null,
+      "ShippingCity": null,
+      "ShippingState": null,
+      "ShippingPostalCode": null,
+      "ShippingCountry": null,
+      "ShippingLatitude": null,
+      "ShippingLongitude": null,
+      "ShippingGeocodeAccuracy": null,
+      "Phone": null,
+      "Fax": null,
+      "AccountNumber": null,
+      "Website": "https://www.texei.com",
+      "Sic": null,
+      "Industry": null,
+      "AnnualRevenue": null,
+      "NumberOfEmployees": null,
+      "Ownership": null,
+      "TickerSymbol": null,
+      "Description": null,
+      "Rating": null,
+      "Site": null,
+      "Jigsaw": null,
+      "CleanStatus": "Pending",
+      "AccountSource": null,
+      "DunsNumber": null,
+      "Tradestyle": null,
+      "NaicsCode": null,
+      "NaicsDesc": null,
+      "YearStarted": null,
+      "SicDesc": null
+    }
+  ]
+}

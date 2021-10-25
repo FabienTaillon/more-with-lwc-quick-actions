@@ -1,0 +1,3 @@
+<aura:component implements="force:lightningQuickAction">
+    My Aura Quick Action
+</aura:component>	
