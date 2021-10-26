@@ -1,3 +1,13 @@
 <aura:component implements="force:lightningQuickAction">
     My Aura Quick Action
+    
+    <div class="slds-m-top_small slds-m-bottom_medium">
+        <h2 class="slds-text-heading_small slds-m-bottom_small">
+            <p>Lorem ipsum dolor sit amet. Est molestiae consequuntur aut quia dolorem id doloremque dolor est voluptatibus natus eos aperiam veniam eos neque aperiam? Qui corporis accusantium non nemo voluptates qui dolorem autem qui totam sapiente.</p>
+            <p>In ipsum et similique deleniti vel iusto iusto quo quas libero? Id dignissimos accusantium ut aperiam quibusdam qui consequatur similique qui quis maxime et quod velit eos dolorem omnis aut assumenda maxime.</p>
+            <p>Quo quisquam odio eos blanditiis fugiat qui error dolore est incidunt mollitia et temporibus voluptatibus in velit voluptates! Quas fugit ab unde dolor sit earum voluptatibus ut minus doloribus ea commodi architecto! Et exercitationem praesentium et amet exercitationem et libero porro sit eius sunt. Est expedita esse quo nostrum pariatur aut similique exercitationem.</p>
+        </h2>
+    </div>
+
+    <lightning:button variant="brand" label="Save" title="Save" onclick="{!c.handleClick}" class="slds-m-left_x-small"/>
 </aura:component>	
