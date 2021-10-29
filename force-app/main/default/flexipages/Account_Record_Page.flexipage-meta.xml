@@ -13,10 +13,10 @@
                             <value>Account.AuraQuickActionWithoutHeader</value>
                         </valueListItems>
                         <valueListItems>
-                            <value>Account.LWCScreenAction</value>
+                            <value>Account.LWCHeadlessAction</value>
                         </valueListItems>
                         <valueListItems>
-                            <value>Account.LWCHeadlessAction</value>
+                            <value>Account.LWCScreenAction</value>
                         </valueListItems>
                     </valueList>
                 </componentInstanceProperties>

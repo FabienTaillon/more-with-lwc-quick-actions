@@ -1,18 +1,14 @@
-# Salesforce DX Project: Next Steps
+# More with LWC Quick Actions
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+This repo contains the sample code for the Interchange episode More with LWC Quick Actions.
 
-## How Do You Plan to Deploy Your Changes?
+## How Do You Create a Scratch Org ?
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+You'll need to connect to your DevHub, running `sfdx auth:web:login`.  
+If you're not familiar with SFDX and how to setup it, I recommend doing [this Trailhead module](https://trailhead.salesforce.com/fr/content/learn/modules/sfdx_app_dev).
 
-## Configure Your Salesforce DX Project
+In addition to the [SFDX CLI](https://developer.salesforce.com/tools/sfdxcli) you may need [Texeï's SFDX Plugin](https://github.com/texei/texei-sfdx-plugin), install it running `sfdx plugins:install texei-sfdx-plugin`.
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+Then just run the `setupScratchOrg.sh` script in this repo, or manually run the actions it contains.  
 
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+Have fun!

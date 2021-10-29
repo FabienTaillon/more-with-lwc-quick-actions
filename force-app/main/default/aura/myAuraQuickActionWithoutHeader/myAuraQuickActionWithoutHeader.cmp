@@ -1,5 +1,4 @@
 <aura:component implements="force:lightningQuickActionWithoutHeader">
-    My Aura Quick Action Without Header
     <!-- https://www.lightningdesignsystem.com/components/modals/#Medium-Modal -->
 
     <header class="slds-modal__header">

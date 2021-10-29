@@ -1,5 +1,4 @@
 <aura:component implements="force:lightningQuickAction">
-    My Aura Quick Action
     
     <div class="slds-m-top_small slds-m-bottom_medium">
         <h2 class="slds-text-heading_small slds-m-bottom_small">
